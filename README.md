@@ -4,6 +4,7 @@ this is test
 this is our first change 
 my new change
 my new change in new machine
+all things clear new changes
 ==================== 
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
