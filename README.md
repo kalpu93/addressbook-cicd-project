@@ -3,7 +3,8 @@ THis is the readme content and let me update and we are learning.....updated con
 jhala
 task4
 task 5
-task 6 and 7
+task  7
+task 7
 ==================== 
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
